@@ -30,8 +30,8 @@ def topThreeMeals():
     print("Dinner")
     print("Lunch")
     print("Breakfast")
-topFiveFoods()
-topThreeClasses()
-topThreeDays()
-topThreeMeals()
-topThreeSports()
+def myNameIs(banana):
+    print(banana + " is my name")
+
+myNameIs("Brooks")
+myNameIs("Logan")
